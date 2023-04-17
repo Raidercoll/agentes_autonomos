@@ -41,9 +41,7 @@ dictio = {'Razão Social':[],
 keys = dictio.keys()
 
 j = 4
-# j = 124
 k = 0
-# k = 60
 while True:
     try:
 
@@ -54,35 +52,44 @@ while True:
         title = div.find_elements(By.CLASS_NAME, "title")  
         content = div.find_elements(By.CLASS_NAME, "info") 
 
-        title = drop_duplicates(get_text_content(title)) 
-        content = drop_duplicates(get_text_content(content))
+        title = get_text_content(title)
+        content = get_text_content(content)
         
         for i in range(0, len(title)):
             if title[i] == 'Responsável pela filial':
                     title[i] = 'Sócio responsável'
                     
-            if title[i] == 'Telefone' and "\xa0\xa0\xa0-\xa0\xa0\xa0(" in content[i] :
-                        content.pop(i+1)
-                        content.pop(i+1)
-            
+            if title[i] == 'Telefone':
+                if "\xa0\xa0\xa0-\xa0\xa0\xa0(" in content[i]:
+                    content.pop(i+1)
+                    content.pop(i+1)
+                elif ")" in content[i]:
+                    content.pop(i+1)
+                elif " - " in content[i]:
+                    pass
+                elif "" in content[i]:
+                    pass
+                else: 
+                    content.insert(i, None)
+                    
             try: 
                 if title[i] in keys:
                     dictio[title[i]].append(content[i])
                 else:
                     dictio[title[i]] = [content[i]]     
             except:
-                dictio[title[i]].append("")
+                dictio[title[i]].append(None)
                 
         dif = list(set(keys) - set(title))
 
         for i in range(0, len(dif)):
-            dictio[dif[i]].append("")
+            dictio[dif[i]].append(None)
     
         k += 1
         j += 2
         
     except:
-        print(f"j: {j}\nk: {k}")
+        print(f"Foram captados {k} agentes!!")
         break
 
 pd.DataFrame(dictio).to_excel('btg.xlsx', index=False)
