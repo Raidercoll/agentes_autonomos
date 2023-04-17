@@ -1,10 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pandas as pd
-import time
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.select import Select
+
 
 # function to returns a list of textContent from a list of a selenium web elements
 def get_text_content(elements_list):
@@ -32,21 +29,21 @@ dictio = {'Razão Social':[],
           'CNPJ':[],
           'E-mail':[],
           'Endereço':[],
-          'UF':[],
-          'Cidade':[],
-          'Bairro':[],
-          'Sócio responsável':[],
           'Telefone':[],
+          'UF':[],
           'Site':[],
+          'Cidade':[],
           'Data contratação':[],
-          'CEP':[]}
+          'Bairro':[],
+          'CEP':[],
+          'Sócio responsável':[]}
 
-keys = list(dictio.keys())
+keys = dictio.keys()
 
 j = 4
-# j = 96
+# j = 124
 k = 0
-# k = 46
+# k = 60
 while True:
     try:
 
@@ -63,6 +60,11 @@ while True:
         for i in range(0, len(title)):
             if title[i] == 'Responsável pela filial':
                     title[i] = 'Sócio responsável'
+                    
+            if title[i] == 'Telefone' and "\xa0\xa0\xa0-\xa0\xa0\xa0(" in content[i] :
+                        content.pop(i+1)
+                        content.pop(i+1)
+            
             try: 
                 if title[i] in keys:
                     dictio[title[i]].append(content[i])
@@ -78,9 +80,9 @@ while True:
     
         k += 1
         j += 2
-            
+        
     except:
-        print(f"j: {j}")
+        print(f"j: {j}\nk: {k}")
         break
 
 pd.DataFrame(dictio).to_excel('btg.xlsx', index=False)
