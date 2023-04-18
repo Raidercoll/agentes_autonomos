@@ -4,11 +4,11 @@ Agentes Autonomos
 
 ### Ajustes e melhorias
 
-[x] Eliminar valores duplicados dos telefones de cada agente.
-[x] Corrigir bug dos dados estarem uma casa a frente.
-[x] Corrigir bug para quando aparece dois telefones.
-[x] Corrigir bug para quando não possuiu telefone.
-[x] Corrigir bug para quando duplicam o algum valor.
+- [x] Eliminar valores duplicados dos telefones de cada agente.
+- [x] Corrigir bug dos dados estarem uma casa a frente.
+- [x] Corrigir bug para quando aparece dois telefones.
+- [x] Corrigir bug para quando não possuiu telefone.
+- [x] Corrigir bug para quando duplicam o algum valor.
 
 ## Pré-requisitos
 
