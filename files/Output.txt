@@ -291,7 +291,6 @@ davi@celtainvest.com.br
  aavila@alphasq.com.br 
  contato@aquirazinvestimentos.com.br 
  abreu@arrecifeaai.com.br 
-renatangs@terra.com.br
  contato@auteminvestimentos.com.br 
  rafael.christiansen@bsideinvestimentos.com.br 
  contato@bbicapital.com.br 
@@ -311,7 +310,6 @@ renatangs@terra.com.br
  gabriel@dominvestimentos.com.br 
  joao@delfosinvestimentos.com.br 
  contato@drivecapital.com.br 
-rodrigo.ganancia@cravacapital.com.br
  bdecourt@everestaai.com.br 
  institucional@ewzcapital.com.br 
  atendimento@engageinvest.com.br 
@@ -337,7 +335,6 @@ rodrigo.ganancia@cravacapital.com.br
  contato@jacarandainvestimentos.com.br 
  comercial@jbninvestimentos.com.br 
  cloves@kazacapital.com.br 
-osmar.mendes@cravacapital.com.br
  contato@sincra.com.br 
  poliana@kirainvestimentos.com.br 
  rafael.sanches@kronecapital.com.br 
@@ -358,9 +355,6 @@ osmar.mendes@cravacapital.com.br
  chakmati@mhinvestimentos.com.br 
  fernandamoritz@mitb.com.br 
  didoramiro@gmail.com 
-circe.machado@cw7aai.com.br
-circemachado@yahoo.com
-lucas.baron@darental.com.br
  contato@momentoinvest.com.br 
  paulo.secco@montealtoinvest.com.br 
  fernanda.ramos@mundialinvestimentos.com.br 
@@ -380,7 +374,6 @@ lucas.baron@darental.com.br
  contato@panoramainvest.com.br 
  kirlisson@performe.com.br 
  atendimento@perspective.com.br 
-henrique.novais@darental.com.br
  eg@pfinvest.com.br 
  rafael.marques@ccninvest.com.br 
  jansen@plentyinvestimentos.com.br 
@@ -411,7 +404,6 @@ henrique.novais@darental.com.br
  fbrant@refraninvest.com.br 
  contato@vertenteaai.com.br 
  contato@veedha.com.br 
-luiza@diamantinainvestimentos.com.br
  juliana.menon@vgvinvest.com.br 
  rm@viddacapital.com.br 
  venice@veniceinvest.com.br 
@@ -449,7 +441,6 @@ fargeti@slw.com.br
 antoniofgb@hotmail.com 
 tony@tonycoelho.com.br 
 lfrazatto@yahoo.com 
-nuno.cruz@estorilinvestimentos.com.br
 abreu@arrecifeaai.com.br; carlosvalle@arrecifeaai.com.br; matheus@arrecifeaai.com.br; pedro@arrecifeaai.com.br 
 gereci@bgrcapital.com.br ; rodrigo@bgrcapital.com.br 
 jose.valdoir@blackross.com.br; sgiuntini@blackross.com.br 
@@ -491,9 +482,6 @@ jminvestimentos@jotam.com.br
 trmontenegro@uol.com.br 
 ilan@lanix.com.br 
 vinicios@lucrarinvestimentos.com.br; stephan@lucrarnvestimentos.com.br; cleodutra@lucrarinvestimentos.com.br; giovano@lucrarinvestimentos.com.br; 
-rui.pinto@estorilinvestimentos.com.br
-contato@everestaai.com.br
-guilhermo@experinvestimentos.com
 fernanda.abrhao@lusinvest.com.br; keila.clemente@lusinvest.com.br; liliana.sadi@lusinvest.com.br 
 rafael.marques@matriceinvest.com.br 
 aily@neovalorinvestimentos.com; carlos@neovalorinvestimentos.com; juliana@neovalorinvestimentos.com; matheus@neovalorinvestimentos.comtimoteo@neovalorinvestimentos.com 
@@ -513,25 +501,12 @@ sirlene@rhyalinvestimentos.com.br; cleverson@rhyalinvestimentos.com.br
 francisco.giannocaro@guideinvestimentos.com.br 
 alexandre.mourani@severa.com.br 
 sol_nascente@uol.com.br 
-mirele@experinvestimentos.com
-ayrton.medeiros@fiere.com.br
 aai@pluginvest.com.br 
 carlos.castro@superrico.com.br 
 risco@unifinance.com.br 
 leonardo@uprealinvestimentos.com.br; luislafratta@uprealinvestimentos.com.br; rodrigo@uprealinvestimentos.com.br; david@uprealinvestimentos.com.br; rafael@uprealinvestimentos.com.br; simone@uprealinvestimentos.com.br 
 marcio.leandro@upstock.com.br 
 diogo.calmon@valeverdeinvest.com.br ; gabriela@otbinvest.com.br 
-Admilson@fiere.com.br
-alex.orlandini@fiere.com.br
-anderson.ribeiro@fiere.com.br
-carla.barros@fiere.com.br
-gabriel.zaiden@fiere.com.br
-gustavo.medina@fiere.com.br
-wesley.dias@fiere.com.br
-aldenorpessoa@financademy.com
-paulomarques@financademy.com
-felipe.noer@fragatainvestimentos.com.br
-martina.patussi@fragatainvestimentos.com.br
 vega@vegagp.com.br; vega@vega.adm.br 
 juliana@vgvaai.com.br 
 emiimai@vmpg.com.br 
@@ -579,6 +554,30 @@ crava@cravacapital.com.br
 enio.fernando@cravacapital.com.br
 rodrigo.souto@cravacapital.com.br
 vania.freire@cravacapital.com.br
+rodrigo.ganancia@cravacapital.com.br
+osmar.mendes@cravacapital.com.br
+circe.machado@cw7aai.com.br
+circemachado@yahoo.com
+lucas.baron@darental.com.br
+henrique.novais@darental.com.br
+luiza@diamantinainvestimentos.com.br
+nuno.cruz@estorilinvestimentos.com.br
+rui.pinto@estorilinvestimentos.com.br
+contato@everestaai.com.br
+guilhermo@experinvestimentos.com
+mirele@experinvestimentos.com
+ayrton.medeiros@fiere.com.br
+Admilson@fiere.com.br
+alex.orlandini@fiere.com.br
+anderson.ribeiro@fiere.com.br
+carla.barros@fiere.com.br
+gabriel.zaiden@fiere.com.br
+gustavo.medina@fiere.com.br
+wesley.dias@fiere.com.br
+aldenorpessoa@financademy.com
+paulomarques@financademy.com
+felipe.noer@fragatainvestimentos.com.br
+martina.patussi@fragatainvestimentos.com.br
 danilo.kenji@gadeinvestimentos.com.br
 douglas.pasquini@gadeinvestimentos.com.br
 joao.cristovao@gadeinvestimentos.com.br
@@ -685,6 +684,7 @@ lucasmartins@skyinvest.com.br
 jorny@slrinvestimentos.com.br
 jose.bolibioaai@stemaren.com.br
 tullio@tbfinvest.com.br
+renatangs@terra.com.br
 henrique@tomiinvestments.com.br
 lucas@tomiinvestments.com.br
 bruno@torzillo.com
@@ -823,7 +823,6 @@ davi@celtainvest.com.br
  joao@delfosinvestimentos.com.br 
  contato@drivecapital.com.br 
  bdecourt@everestaai.com.br 
- comercial@jbninvestimentos.com.br 
  institucional@ewzcapital.com.br 
  atendimento@engageinvest.com.br 
  fidus@fidusinvest.com.br 
@@ -846,6 +845,7 @@ davi@celtainvest.com.br
  garcia@itajubainvestimentos.com.br 
  iwm@iwm.com.br 
  contato@jacarandainvestimentos.com.br 
+ comercial@jbninvestimentos.com.br 
  cloves@kazacapital.com.br 
  contato@sincra.com.br 
  poliana@kirainvestimentos.com.br 
@@ -946,7 +946,6 @@ hamyrez.barbosa@akivcinvest.com.br
 raphael.mendes@akivainvest.com.br 
 bianchini@alappinvest.com 
 jeferson@aligninvest.com.br ; guilhermeolinto_aai@outlook.com; fabiola@aligninvest.com.br; hellen@aligninvest.com.br; vera@aligninvest.com.br; mariadapenha@aligninvest.com.br 
-trmontenegro@uol.com.br 
 debora@allorainvestimentos.com.br 
 allux@alluxinvestimentos.com; ernesto@alluxinvestimentos.com 
 a.latina@terra.com.br 
@@ -969,7 +968,6 @@ henrique@aai.loteinvest.com; fernando@aai.loteinvest.com
 ctn@egsinvestimentos.com.br 
 elizabetholivo.bnpp@hotmail.com 
 ennardelli@gmail.com 
-jminvestimentos@jotam.com.br 
 isidoriosimoes@atuacaopart.com.br 
 alexandre.abreu@estruturalinvestimentos.com.br; fernando.zanoli@estruturalinvestimentos.com.br; camila.lessa@estruturalinvestimentos.com.br 
 gustavo.ribolli@einv.com.br; admilson@einvcom.br; gilberto.gumieri@einv.com.br; 
@@ -990,6 +988,8 @@ jacques.abram@abramaai.com.br
 maikel@jacobcapital.com.br 
 jbatistaautonomosjosecarlos@gmail.com; jbatistaautonomos.gabriel@gmail.com 
 leon@jlvinvestimentos.com.br 
+jminvestimentos@jotam.com.br 
+trmontenegro@uol.com.br 
 ilan@lanix.com.br 
 vinicios@lucrarinvestimentos.com.br; stephan@lucrarnvestimentos.com.br; cleodutra@lucrarinvestimentos.com.br; giovano@lucrarinvestimentos.com.br; 
 fernanda.abrhao@lusinvest.com.br; keila.clemente@lusinvest.com.br; liliana.sadi@lusinvest.com.br 
